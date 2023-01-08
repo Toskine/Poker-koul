@@ -1,0 +1,4 @@
+C:/Users/raphi/CLionProjects/Pokerkoul/cmake-build-debug/CMakeFiles/Pokerkoul.dir
+C:/Users/raphi/CLionProjects/Pokerkoul/cmake-build-debug/CMakeFiles/Poker.dir
+C:/Users/raphi/CLionProjects/Pokerkoul/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/raphi/CLionProjects/Pokerkoul/cmake-build-debug/CMakeFiles/rebuild_cache.dir
